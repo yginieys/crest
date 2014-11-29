@@ -12,7 +12,7 @@ Thumbs.db
 = Misc files =
 ==============
 *.log
-
+nbproject/
 
 = Node modules =
 ================
